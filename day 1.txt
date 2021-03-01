@@ -1,0 +1,50 @@
+24* 7
+eew.sagar@gmail.com
+7276757481
+-----------------------------
+tester 
+developer
+
+c, c++ basic , interview question 400 ek project
+core java, advance java , frame work .mysql , seleium  == 3 month  jira, confulence, agile, 
+ hibernate, spring spring boot, mysql 
+1000 + interview  with scenario.]
+--
+ front end:  html, swing, css, java script
+ back end : Mysql , hibernate
+ middle part :  Java
+
+
+ task and marks
+ certificate grade as per the marks
+ taks complete is most imp.
+ 
+ --------------------------------------------------
+ notes - each every thing in notes , theory and practical code is there.
+ system =  notes, code will be publish in github
+ github account - make it
+ ---------------------------------
+ tools : 
+ netbeans ide(integrated developement environment), notepad++, java jdk 1.8 openjdk, GCC
+ 
+ ----------------------------------------
+ practise - ask me directly
+ 
+ -----------
+ follow one resource for complete learning
+ w3 school for c++ 
+ java - my own notes
+ 
+ ----------------------------------
+  tester  : test project, find defect, manage the team to give best project with client aspectation , gate keeper - > its give the permission to pass the project development and launch in Production (project live)
+  
+  developer :  develop the project , code, deploy in production , client ki aspectation ke hisab se project develop kar ke deta hai.
+  
+   ek managar - ek team lead developer - 1, 2, 3 senrior  developer - 1 2, 3 ,4 junioir developer                    
+                Ek test lead  - 1, 2, 3 senrior  tester  - 1 2, 3 ,4 junioir tester  
+				
+				as per the project
+  
+  
+  
+ 
