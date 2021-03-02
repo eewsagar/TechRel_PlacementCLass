@@ -1,0 +1,41 @@
+installation of netbeans
+ netbean website  :  exe download  @ https://netbeans.org/downloads/old/8.2/
+ run -> next -> next -> custome -> runtime server -> tick apache tomcat-> next
+ For C++ installation in windows @ https://netbeans.org/community/releases/80/cpp-setup-instructions.html#:~:text=Choose%20Tools%20%3E%20Plugins.,NetBeans%20IDE%20Installer%2C%20click%20Next.
+ cizwin download @ https://cygwin.com/
+ run the cygwin exe file -> next -> next till  asking selecting package-> view having full view -> select the package as per the guidline of netbeans
+package will  be :  
+            	C:\> gcc --version
+		C:\> g++ --version
+		C:\> make --version
+		C:\> gdb --version
+open the cygwin terminal and check all the package install or not.if all package are there then open netbeans.
+how to make a project
+how to add a cpp file in project
+how to run it
+solve the error by adding header files.
+ run the program
+
+Program : 
+
+         #include <iostream>
+#include <cstdlib>
+
+using namespace std;
+
+/*
+ * 
+ */
+int main() {  // its a predefine method name in c++ complier. and its a starting point of your  project or class.
+   cout << "Hello World! \n";  // cout is used to print something or for output propose
+   cout <<"\nPlease the value of X";
+   int x,y;
+   cin >> x;   // cin is used for get the value from the user or console.
+   cout <<"\nPlease enter the value of Y";
+   cin >> y;
+   int z= x+y;
+   cout << z;
+    return 0; // it having a return type as int
+}
+
+ 
