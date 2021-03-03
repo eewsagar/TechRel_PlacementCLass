@@ -1,0 +1,18 @@
+1. github installation and activity.
+   github account  , email verification
+   Creating a repository
+   download tortoies svn @https://tortoisesvn.net/downloads.html
+   install it. by Run it -> next -> next-> next ->finish
+    take a url from repository.-> create a new folder in drive or any where in system -> right click inside the folder
+	-> click checkout (first time)
+	-> for adding new file in repository -> create or add a file in trunk folder -> right click on the file-> tortoies->add.
+	   againg right click in new file which we waan to upload in github ->commit.
+	-> update
+    -> clear 
+    -> show log
+    -> repo browser	
+
+   
+2. C++ theory
+variable :type variable = value
+          int  s =  10;
