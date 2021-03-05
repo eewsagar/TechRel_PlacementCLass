@@ -1,0 +1,27 @@
+variable:  change the value in run time process of program.
+type  variable = value;
+
+we can have multiple variable in one line or in one declaration.
+
+int x=10,y=30,z=40;
+string name = "sagar", class="TechRel",City="Pune",State="MH"; // comma seperated value
+x=90;
+
+variable can be a constant after using const in declaration of variable.
+
+const int x=10;
+
+student database: 
+      student name , id, roll, marks,subject ,
+	  const string collegename ="PC";
+	  
+	1  sagar   ,  10, 1001, 500, IT ,PC
+	2  rahul , 11, 10002, 600,IT,PC
+	3  avi, 12,10003,700,ET,PC
+	
+	table print 2
+	i=2 // const
+	j =(1----10) // varible
+	
+	
+	-----------------------------------------------------
