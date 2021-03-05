@@ -1,0 +1,35 @@
+append in string :
+                  this is techrel class .we are here to study all software knowlegde gaining.this is in pune.
+				  
+String
+   concatnate
+   append
+   size
+   lenght
+   
+math
+    function : sqrt (),log(),hypot(),cos(),sin()..... etc...
+	
+boolean
+     true and false
+	 
+condition
+     if{}
+	 
+	 if(){}else{}
+	 
+	 if(){}else if(){} else{}
+	 
+switch
+     switch (){
+	   case1 :
+	         break;
+		case2 : 
+             break;
+
+			 }
+		
+------------------------------
+Exercise :  go in w3 school and check all the other function or method for practise.
+ 
+				  
