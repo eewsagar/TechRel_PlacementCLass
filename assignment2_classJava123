@@ -1,0 +1,80 @@
+11. Write a program in C++ to print the result of the specified operations.   
+Sample Output:
+Print the result of some specific operation :
+--------------------------------------------------
+Result of 1st expression is : 23
+Result of 2nd expression is : 5
+Result of 3rd expression is : 12
+Result of 4th expression is : 3
+ 
+12. Write a program in C++ to add two numbers accept through keyboard.   
+Sample Output:
+Original array:
+[10, 20, 30]
+After append values to the end of the array:
+[10 20 30 40 50 60 70 80 90]
+ 
+13. Write a program in C++ to swap two numbers.   
+Sample Output:
+Swap two numbers :
+-----------------------
+Input 1st number : 25
+Input 2nd number : 39
+After swapping the 1st number is : 39
+After swapping the 2nd number is : 25
+ 
+14. Write a program in C++ to calculate the volume of a sphere.   
+Sample Output:
+Calculate the volume of a sphere :
+---------------------------------------
+Input the radius of a sphere : 6
+The volume of a sphere is : 904.32
+ 
+15. Write a program in C++ to calculate the volume of a cube.   
+Sample Output:
+Calculate the volume of a cube :
+---------------------------------------
+Input the side of a cube : 5
+The volume of a cube is : 125
+ 
+16. Write a program in C++ to calculate the volume of a cylinder.   
+Sample Output:
+Calculate the volume of a cylinder :
+-----------------------------------------
+Input the radius of the cylinder : 6
+Input the height of the cylinder : 8
+The volume of a cylinder is : 904.32
+ 
+17. Write a program in C++ to find the Area and Perimeter of a Rectangle.   
+Sample Output:
+Find the Area and Perimeter of a Rectangle :
+-------------------------------------------------
+Input the length of the rectangle : 10
+Input the width of the rectangle : 15
+The area of the rectangle is : 150
+The perimeter of the rectangle is : 50
+ 
+18. Write a program in C++ to find the area of any triangle using Heron's Formula.   
+Sample Output:
+Find the area of any triangle using Heron's Formula :
+----------------------------------------------------------
+Input the length of 1st side of the triangle : 5
+Input the length of 2nd side of the triangle : 5
+Input the length of 3rd side of the triangle : 5
+The area of the triangle is : 10.8253
+ 
+19. Write a program in C++ to find the area and circumference of a circle.   
+Sample Output:
+Find the area and circumference of any circle :
+----------------------------------------------------
+Input the radius(1/2 of diameter) of a circle : 5
+The area of the circle is : 78.5397
+The circumference of the circle is : 31.4159
+ 
+20. Write a program in C++ to convert temperature in Celsius to Fahrenheit.   
+Sample Output:
+Convert temperature in Celsius to Fahrenheit :
+---------------------------------------------------
+Input the temperature in Celsius : 35
+The temperature in Celsius : 35
+The temperature in Fahrenheit : 95
