@@ -1,0 +1,190 @@
+21. Write a program in C++ to convert temperature in Fahrenheit to Celsius.   
+Sample Output:
+Convert temperature in Fahrenheit to Celsius :
+---------------------------------------------------
+Input the temperature in Fahrenheit : 95
+The temperature in Fahrenheit : 95
+The temperature in Celsius : 35
+ 
+22. Write a program in C++ to find the third angle of a triangle.   
+Sample Output:
+Find the third angle of a triangle :
+-----------------------------------------
+Input the 1st angle of the triangle : 30
+Input the 2nd angle of the triangle : 60
+The 3rd of the triangle is : 90
+ 
+23. Write a program in C++ that converts kilometers per hour to miles per hour.   
+Sample Output:
+Convert kilometers per hour to miles per hour :
+----------------------------------------------------
+Input the distance in kilometer : 25
+The 25 Km./hr. means 15.5343 Miles/hr.
+ 
+24. Write a program in C++ to convert temperature in Kelvin to Fahrenheit.   
+Sample Output:
+Convert temperature in Kelvin to Fahrenheit :
+---------------------------------------------------
+Input the temperature in Kelvin : 300
+The temperature in Kelvin : 300
+The temperature in Fahrenheit : 80.33
+ 
+25. Write a program in C++ to convert temperature in Kelvin to Celsius.   
+Sample Output:
+Convert temperature in Kelvin to Celsius :
+------------------------------------------------
+Input the temperature in Kelvin : 300
+The temperature in Kelvin : 300
+The temperature in Celsius : 26.85
+
+ 
+26. Write a program in C++ to convert temperature in Fahrenheit to Kelvin.   
+Sample Output:
+Convert temperature in Fahrenheit to Kelvin :
+---------------------------------------------------
+Input the temperature in Fahrenheit : 80.33
+The temperature in Fahrenheit : 80.33
+The temperature in Kelvin : 300
+ 
+27. Write a program in C++ to convert temperature in Celsius to Kelvin.   
+Sample Output:
+Convert temperature in Celsius to Kelvin :
+---------------------------------------------------
+Input the temperature in Celsius : 26.85
+The temperature in Celsius : 26.85
+The temperature in Kelvin : 300
+ 
+28. Write a program in C++ to find the area of Scalene Triangle.   
+Sample Output:
+Find the area of Scalene Triangle :
+----------------------------------------
+Input the length of a side of the triangle : 5
+Input the length of another side of the triangle : 6
+Input the angle between these sides of the triangle : 6
+The area of the Scalene Triangle is : 1.56793
+ 
+29. Write a program in C++ to compute quotient and remainder.   
+Sample Output:
+Compute quotient and remainder :
+-------------------------------------
+Input the dividend : 25
+Input the divisor : 3
+The quotient of the division is : 8
+The remainder of the division is : 1
+ 
+30. Write a program in C++ to compute the total and average of four numbers.   
+Sample Output:
+Compute the total and average of four numbers :
+----------------------------------------------------
+Input 1st two numbers (separated by space) : 25 20
+Input last two numbers (separated by space) : 15 25
+The total of four numbers is : 85
+The average of four numbers is : 21.25
+ 
+31. Write a program in C++ to input a single digit number and print a rectangular form of 4 columns and 6 rows.   
+Sample Output:
+Make a rectangular shape by a single digit number :
+--------------------------------------------------------
+Input the number : 5
+5555
+5 5
+5 5
+5 5
+5 5
+5555
+ 
+32. Write a program in C++ to check whether a number is positive, negative or zero.   
+Sample Output:
+Check whether a number is positive, negative or zero :
+-----------------------------------------------------------
+Input a number : 8
+The entered number is positive.
+ 
+33. Write a program in C++ to divide two numbers and print on the screen.   
+Sample Output:
+Divide two numbers and print:
+----------------------------------
+The quotient of 30 and 10 is : 3
+ 
+34. Write a C++ program to display the current date and time.   
+Sample Output:
+Display the Current Date and Time :
+----------------------------------------
+seconds = 57
+minutes = 33
+hours = 12
+day of month = 6
+month of year = 7
+year = 2017
+weekday = 4
+day of year = 186
+daylight savings = 0
+Current Date: 6/7/2017
+Current Time: 12:33:57
+ 
+35. Write a program in C++ to compute the specified expressions and print the output.   
+Sample Output:
+Compute the specified expressions and print the output:
+------------------------------------------------------------
+Result of the expression (25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5) is : 2.13889
+ 
+36. Write a program in C++ to test the Type Casting.   
+Sample Output:
+Formatting the output using type casting:
+----------------------------------------------
+Print floating-point number in fixed format with 1 decimal place:
+Test explicit type casting :
+0
+0.5
+0.5
+0.0
+Test implicit type casting :
+0
+0
+int implicitly casts to double:
+4.0
+double truncates to int!:
+6
+ 
+37. Write a program in C++ to print a mystery series from 1 to 50.   
+Sample Output:
+Print a mystery series:
+-------------------------
+The series are:
+5 4 2 7 11 10 8 13 17 16 14 19 23 22 20 25 29 28 26 31 35 34 32 37 41 4 0 38 43 47 46 44 49
+ 
+38. Write a program in C++ that takes a number as input and prints its multiplication table upto 10.   
+Sample Output:
+Print the multiplication table of a number upto 10:
+--------------------------------------------------------
+Input a number: 5
+5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+ 
+39. Write a program in C++ to print the following pattern.   
+Sample Output:
+ xxxxx                                                                                                        
+x     x       x        x                                                                                      
+x             x        x                                                                                      
+x          xxxxxxx  xxxxxxx                                                                                   
+x             x        x                                                                                      
+x     x       x        x                                                                                      
+ xxxxx  
+
+ 
+40. Write a program in C++ to print the area and perimeter of a rectangle.   
+Sample Output:
+Print the area and perimeter of a rectangle:
+----------------------------------------------
+Input the width of the rectangle: 8.5
+Input the height of the rectangle: 5.6
+The area of the rectangle is: 47.6
+The perimeter of the rectangle is: 28.2
