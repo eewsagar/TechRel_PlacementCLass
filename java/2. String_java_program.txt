@@ -1,0 +1,88 @@
+1) How to find the maximum occurring character in a given String? (solution)
+Write an efficient Java/C/Python program to return the maximum occurring character in the input string, e.g., if the input string is "Java" then the function should return 'a'.
+
+
+2) How to remove all duplicates from a given string? (solution)
+Write a program to remove all the duplicate characters from a given input String, like, if the given String is "Java" then the output should be "Java". The second or further occurrence of duplicates should be removed.
+
+3) How to print the duplicate characters from the given String? (solution)
+Write an efficient Java/C/Python/Ruby program to return the duplicate characters from given String, for example, if given String is "C++" then your program should print "+" Similarly, if the input is "Java and JavaScript" then your program should print "J", "a" and "v". You can ignore the case for finding duplicates.
+
+If you notice there is a pattern to solve these duplicate characters problem. For example, you can use a data structure like HashSet or HashMap to store characters and their count to find out which is duplicate and how many times they are appearing. Knowing these coding tips and patterns really help during coding interviews. 
+
+ 
+
+If you are interested to learn more about these kinds of coding patterns then I highly recommend you to checkout Grokking the Coding Interview: Patterns for Coding Questions course from Educative, an interactive learning portal. This course will teach you 15 common coding patterns like sliding window, two pointers, merge interval, etc, that you can use to solve 100+ Leetcode problems. 
+
+21 String Coding Problems from Java Interviews
+
+
+
+
+4) How to remove characters from the first String which are present in the second String? (solution)
+Write an efficient Java/c/Python function that takes two strings as arguments and removes the characters from the first string, which are present in the second string. For example, if the first String "India is great" and the second String is "in" then the output should be "da s great"
+
+ 
+
+
+
+5) How to check if two strings are rotations of each other? (solution)
+Write an efficient program to test if two given String is a rotation of each other or not, e.g. if the given String is "XYZ" and "ZXY" then your function should return true, but if the input is "XYZ" and "YXZ" then return false.
+
+
+6) How to reverse a given String? (solution)
+Write a program to reverse a String in C/Java/Python or choice of your programming language. You can write either the recursive or iterative solution. For example, if a given input is "abcd," then your function should return "dcba".
+
+
+7) How to reverse String without recursion? (solution)
+Same as the previous program, but you cannot use recursion, this time, you must solve this problem in C/Java/Python using iteration or loops. If you are not familiar with recursion and repetition, you can further check the Algorithms and Data Structures - Part 1 and 2 courses on Pluralsight. One of the better course to start with fundamental techniques to solve algorithms based problems.
+
+string programming interview questions for java developers
+
+
+
+8) How to print all permutation of a String? (solution)
+Write an efficient program to print all permutations of a given String in Java/C/Python or any programming language of your choice. For example, if given input is "123" then your program should print all 6 permutations e.g. "123", "132", "213", "231", "312" and "321".
+
+ 
+
+
+
+9) How to find the first non-repeating character in a given String? (solution)
+Write a program in any programming language you to find the first non-repeated character in a given String, for example, if the given String is "Java" then the first non-repeated character is "J"
+
+
+10) How to reverse the words in a given String sentence? (solution)
+Write an efficient program in Java or C++ to reverse the words in a given String sentence. For example, if the input is "Java is best," then your program should print "best is Java". There is no restriction on preserving white space.
+
+
+11) How to find the smallest substring in a given string containing all characters of another string? (solution)
+Write an efficient function in C/C++ or Java to print the smallest substring in a given string containing all characters of another String. For example, if the given String is "this is a test string" and "tist", then the output should be "t stri".
+
+
+12) How to check if two given String is the anagram of each other? (solution)
+Write an efficient program in Java/C/C++ to check if two String is an anagram of each other. An anagram contains are of the same length and contains the same character, but in a different order, for example, "Army" and "Mary" is the anagram. Your program should return true if both Strings are the anagram, false otherwise
+
+
+13) How do you check if a given String is Palindrome or not? (solution)
+Write an efficient program in your favorite programming language to check if a Given a string is a palindrome, considering only alphanumeric characters and ignoring cases. For example,"121" is a palindrome, but "123" is not. Your function should return true if given String is a palindrome, false otherwise
+
+
+14) How do you convert String to an integer?  (solution)
+Implement atoi() like function in C/C++/Java to convert a string to an integer. Consider all possible cases e.g. positive and negative String, the presence of + or - character, etc. For example, if the given input String is "123" then your program should return 123 and if a given input is "+231" then your program should return 231. 
+
+
+15) How do you convert a Roman numeral String to Integer in Java? (solution)
+Write a function in your favorite programming language to convert a given Roman numeral to equivalent String. For example, if the given String is "X" then your program should print 10. Input will be within the range from 1 to 2000. You can also ignore case, like both "x" and "X" should return 10
+
+
+17) How do you remove a given character from String? (solution)
+Write an efficient method in Java to remove all occurrences of a given character in Java. For example, if the given String is "Programming" and the given character to remove is "m" then your function should return "Prograing".
+
+
+18) How do you count the number of words in String? (solution)
+Write a program to count a number of words in a given String. The words are separated by the following characters: space (‘ ‘) or newline (‘\n’) or tab (‘\t’) or a combination of these. For example, if input "Java is great" your program should print 3.
+
+
+19) How do you check if a given string contains valid parentheses? (solution)
+Given a string containing just the characters '(', ')', '{', '}', '[' and ']', write a function in Java or C++ to check if the input string is valid. The brackets must close in the correct order, "()" and "()[]{}" are all valid but "(]" and "([)]" are not

@@ -1,0 +1,28 @@
+--List of Java File Handling Programs--
+Java program to create a new file
+Java program to write content into file using FileOutputStream
+Java program to read content from file using FileInputStream
+Java program to write content into file using BufferedWriter
+Java program to read content from file using BufferedReader
+Java program to get file size and file path
+Java program to delete a file
+Java program to copy files
+Java program to get the last modification date and time of a file
+Java program to append text/string in a file
+Java program to determine number of bytes written to file using DataOutputStream
+Java program to read text from file from a specified index or skipping byte using FileInputStream
+Java program to check whether a file is hidden or not
+Java program to get the size of given file in bytes, kilobytes and megabytes
+Java program to create directory/folder in particular drive
+Java program to check whether a file can be read or not
+Java program to read and print all files from a zip file
+Java program to get the attributes of a file
+Java program to get the basic file attributes (specific to DOS)
+Java program to get the file's owner name
+Java program to get file creation, last access and last modification time
+Java program to read content from one file and write it into another file
+Java program to read a file line by line
+Java program to traverse all files of a directory/folder
+Java - Print File Content, Display File using Java Program
+Java - Copy Content of One File to Another File using Java Program
+Java program to rename an existing file

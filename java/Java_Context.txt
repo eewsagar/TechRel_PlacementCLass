@@ -1,0 +1,32 @@
+Core java -> data type, if ,else, for, while , switch
+string
+Constructor
+Access modifier
+oops concepts, 
+super and this keyword
+static
+array ,
+packages
+exception in java 
+collection
+generic
+I/o file operation
+serialization
+inner class
+Threads
+JDBC - java database connectivity
+
+Interview Question links:
+1. https://www.javatpoint.com/corejava-interview-questions
+2. https://javahungry.blogspot.com/2020/10/java-interview-questions-for-2-years-experience.html
+
+3. https://www.baeldung.com/java-8-interview-questions
+  Read and make a notes  -> https://www.javatpoint.com/java-8-features
+  
+4. Java design Pattern  -> https://www.javatpoint.com/design-patterns-in-java
+   Read 3 -4 time  and make your own notes.
+5. 
+   
+
+
+

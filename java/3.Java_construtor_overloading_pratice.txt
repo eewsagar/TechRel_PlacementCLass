@@ -1,0 +1,58 @@
+
+1.
+Write a program to print the names of students by creating a Student class. 
+If no name is passed while creating an object of the Student class, then the name should be "Unknown", 
+otherwise the name should be equal to the String value passed while creating the object of the Student class.
+
+2.Create a class named 'Rectangle' with two data members- length and breadth and a function to
+calculate the area which is 'length*breadth'. The class has three constructors which are :
+1 - having no parameter - values of both length and breadth are assigned zero.
+2 - having two numbers as parameters - the two numbers are assigned as length and breadth respectively.
+3 - having one number as parameter - both length and breadth are assigned that number.
+Now, create objects of the 'Rectangle' class having none, one and two parameters and print their areas.
+
+3. Suppose you have a Piggie Bank with an initial amount of $50 and you have to add some more amount to it.
+ Create a class 'AddAmount' with a data member named 'amount' with an initial value of $50. Now make two constructors of this class as follows:
+1 - without any parameter - no amount will be added to the Piggie Bank
+2 - having a parameter which is the amount that will be added to the Piggie Bank
+Create an object of the 'AddAmount' class and display the final amount in the Piggie Bank.
+
+4. Create a class named 'Programming'. While creating an object of the class, 
+if nothing is passed to it, then the message "I love programming languages" should be printed. 
+If some String is passed to it, then in place of "programming languages" the name of that String variable should be printed.
+For example, while creating the object if we pass "cpp", then "I love cpp" should be printed.
+
+5. Create a class named 'PrintNumber' to print various numbers of different datatypes by creating 
+different functions with the same name 'printn' having a parameter for each datatype.
+
+6. Create a class to print an integer and a character using two functions having the 
+same name but different sequence of the integer and the character parameters.
+For example, if the parameters of the first function are of the form (int n, char c), 
+then that of the second function will be of the form (char c, int n).
+
+7. Create a class to print the area of a square and a rectangle. The class has two functions with the 
+same name but different number of parameters. The function for printing the area of rectangle has two 
+parameters which are its length and breadth respectively while the other function for printing the area 
+of square has one parameter which is the side of the square.
+
+8. Create a class 'Student' with three data members which are name, age and address. 
+The constructor of the class assigns default values to name as "unknown", age as '0' 
+and address as "not available". It has two functions with the same name 'setInfo'. 
+First function has two parameters for name and age and assigns the same whereas the 
+second function takes has three parameters which are assigned to name, age and address
+ respectively. Print the name, age and address of 10 students.
+Hint - Use array of objects
+
+
+9. Create a class 'Degree' having a function 'getDegree' that prints "I got a degree". It has two 
+subclasses namely 'Undergraduate' and 'Postgraduate' each having a function with the same name 
+that prints "I am an Undergraduate" and "I am a Postgraduate" respectively. Call the function by 
+creating an object of each of the three classes.
+
+10. A boy has his money deposited $1000, $1500 and $2000 in banks-Bank A, Bank B and Bank C respectively.
+We have to print the money deposited by him in a particular bank.
+Create a class 'Bank' with a function 'getBalance' which returns 0. 
+Make its three subclasses named 'BankA', 'BankB' and 'BankC' with a function with the same 
+name 'getBalance' which returns the amount deposited in that particular bank. 
+Call the function 'getBalance' by the object of each of the three banks.
+

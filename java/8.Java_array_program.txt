@@ -1,0 +1,33 @@
+1. Write a program to print the name, salary and date of joining of 10 employees in a company. Use array of objects.
+2. Write a program to print the roll number and average marks of 8 students in three subjects (each out of 100). 
+The marks are entered by the user and the roll numbers are automatically assigned.
+3. Write a program to calculate the average height of all the students of a class. 
+The number of students and their heights are entered by the user.
+
+4. Lets create a bank account. Create a class named 'BankAccount' with the following data members
+1 - Name of depositor
+2 - Address of depositor
+3 - Type of account
+4 - Balance in account
+5 - Number of transactions
+Class 'BankAccount' has a function for each of the following
+1 - Generate a unique account number for each depositor
+For the first depositor, account number will be BA1000, for the second depositor it will be BA1001 and so on
+2 - Display information and balance of depositor
+3 - Deposit more amount in the balance of any depositor
+4 - Withdraw some amount from the balance deposited
+5 - Change the address of depositor
+After creating the class, do the following operations
+1 - Enter the information (name, address, type of account, balance) of the depositors. Number of depositors are to be entered by the user.
+2 - Print the information of any depositor.
+3 - Add some amount to the account of any depositor and then display the final information of that depositor
+4 - Remove some amount from the account of any depositor and then display the final information of that depositor
+5 - Change the address of any depositor and then display the final information of that depositor
+6 - Randomly repeat these processes for some other bank accounts and after that print the total number of transactions.
+
+5. Write a program to create a directory that contains the following information.
+(a) Name of a person
+(b) Address
+(c) Telephone Number (if available with STD code)
+(d) Mobile Number (if available)
+(e) Head of the family
