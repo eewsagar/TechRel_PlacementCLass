@@ -1,0 +1,20 @@
+Aim : file data transfer to database
+
+Step  :
+1.one file name data.txt
+
+data example: 
+tom, cartoonNetwork, 1990, $5000
+jerry, CartoonNetwork, 1989, $4500
+popye,Disney,1995,$3000
+chotabhim,bollywood,2000,$6000
+
+2.Read this data  -> print in console  
+
+3.make object of data (name, adress,bornyear,salary) assign value (string token (,))
+
+4. save it in arraylist data object -> 
+
+5. connect data base 'dbCartoonDetails';
+
+6. insert the data of data.txt file into dbCartoonDetails database .
