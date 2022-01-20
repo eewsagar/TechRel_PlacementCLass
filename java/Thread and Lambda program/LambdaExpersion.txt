@@ -1,0 +1,41 @@
+1. it not having name
+2. no return type
+3. no access specifier
+4. curly bracket is optional
+5. there is no need of datatype
+6. 0, 1,2... n number parameter
+
+7. To run the lambda functional interface (SAM) is needed
+   SAM -> single abstract method
+
+ normal method :
+ 
+public void add(){
+
+ System.out.println("addition of 2 two number :"+(10+20));
+}
+
+lambda expersiiion :
+(parameter)->{expersion}
+
+()->System.out.println("addition of 2 two number :"+(10+20));
+----------------------------------------
+public void add(int a, int b){
+
+ System.out.println("addition of 2 two number :"+(a+b));
+  System.out.println("addition of 2 two number :"+(a-b));
+}
+
+(a,b)->{
+ System.out.println("addition of 2 two number :"+(a+b));
+ System.out.println("substraction of 2 two number :"+(a-b));
+}
+
+
+Functional interface : interface having single abstract method is called functional interface.
+
+ interface Inter{
+  public void m1();c
+ 
+ }
+
