@@ -1,0 +1,20 @@
+Thread
+way to create a thread
+1. extends Thread class  -> start(), run()
+2. Implements Runnable interface -> run()
+
+thread lifecycle
+
+new 
+runable  run()
+start    start() , notify, notifyall
+running   sleep(), wait()
+runable
+dead  
+
+ there is thread prirority
+ 1-10 , 5 by default
+ setPrirority(6)
+ join()
+ 
+ t1.join(t2)
