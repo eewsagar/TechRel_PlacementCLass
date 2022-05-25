@@ -1,0 +1,25 @@
+APi runing and testing
+***Restful service  -> representation state tranfer  vs soap -> 
+1. Postman -> download and installed
+2. spring boot application -> https://start.spring.io/
+3. Add dependency of web, devtool, lombook,
+4. Generate the code in zip format, (it will download in folder).
+5. Extract zip file.
+6. Go in to eclipse and go to file menu -> import.
+7. Pass the url or path where zip is extracted.
+8. Pom file is refelcted in eclipse import window.
+9. Taking a time for downloading all the dependency.
+10. code for api.-> run the _application.java file to run the application.
+11. Open postman -> select method (get) -> add url -> click send
+12. OutPUT
+
+core java -> advance java (jdbc, jsp, srvlet) -> spring (xml configuration) -> spring boot ( no need of xml)
+@  -> annotation -> meta data -> data of 
+
+For manual testing of api
+1. URL(endpoint)
+2. Parameter with posible and not posible value.
+
+rest vs soap
+http methods -> get, post, delete
+idompotent? which method is idompotent
