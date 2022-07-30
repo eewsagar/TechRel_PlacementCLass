@@ -8,6 +8,7 @@ package com.main.database;
  *
  * @author sagarverma
  */
+import java.io.File;
 import java.sql.*;
 
 public class DBConnection {
@@ -32,9 +33,13 @@ public class DBConnection {
 
         
         try {
+            StringDataAppend sda =  new StringDataAppend();
+            File f1 =  new File("log.txt");
+            
                 ResultSet rs = stmt.executeQuery("select * from tbl_user");
                 while (rs.next()) {
                     System.out.println(rs.getString(1) + "" + rs.getString(2) + "" + rs.getString(3));
+                    sda.appendData(f1, "\n"+rs.getString(1) + "" + rs.getString(2) + "" + rs.getString(3));
                 }
             
 
